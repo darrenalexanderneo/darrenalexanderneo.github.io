@@ -66,8 +66,8 @@ const unsortedData = [
       title: "Software Engineer, Tech Analyst",
       desc: ["Part of the Securities Execution Team, contributing to a centralized internal order management system"],
       rate: "5.00/5 ",
-      company: "Government Technology Agency",
-      image: "/images/govtech.png"
+      company: "Credit Suisse",
+      image: "/images/credit-suisse.png"
     },
 
   ]
