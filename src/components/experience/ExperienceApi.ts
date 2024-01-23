@@ -49,6 +49,27 @@ const unsortedData = [
       company: "Binance",
       image: "/images/binance.png"
     },
+    {
+      id: 9,
+      category: "experience",
+      year: "May 2023 - July 2023",
+      title: "Cloud Engineer Intern",
+      desc: ["Led the successful development and implementation of a robust Disaster Recovery Proof of Concept (POC) utilizing Azure Cloud Services for the Singpass system."],
+      rate: "5.00/5 ",
+      company: "Government Technology Agency",
+      image: "/images/govtech.png"
+    },
+    {
+      id: 10,
+      category: "experience",
+      year: "Aug 2023 - Present",
+      title: "Software Engineer, Tech Analyst",
+      desc: ["Part of the Securities Execution Team, contributing to a centralized internal order management system"],
+      rate: "5.00/5 ",
+      company: "Government Technology Agency",
+      image: "/images/govtech.png"
+    },
+
   ]
 
   const data = unsortedData.sort((a, b) => b.id - a.id);
